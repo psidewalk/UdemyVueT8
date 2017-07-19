@@ -7,3 +7,4 @@ machine, just run "npm install". You must have npm installed in your machine, of
 The Blue,Green and Red Green Vue components must be put inside a folder named /src/components, how showed in the App.vue.
 (This is a very basic example of the "dynamic component" feature of VueJs 2.0, but, for any doubt, follow my e-mail:
 pcsidewalk@gmail.com )
+NOTE : The app was created by vue-cli . 
