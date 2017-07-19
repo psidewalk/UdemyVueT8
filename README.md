@@ -4,3 +4,4 @@ Bacically, 3 exclusive buttons select one of three frames, using the VueJs reser
 one "space" in the html page for the component, created dynamically by the selected button.
 For obvious reason, the folder "node-modules" was not uploaded to the repository. To create the folder in your
 machine, just run "npm install". You must have npm installed in your machine.
+The Blue,Green and Red Green Vue components must be put inside a folder named /src/components.
